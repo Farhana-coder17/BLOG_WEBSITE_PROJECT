@@ -1,6 +1,6 @@
 Blog Websit (Django, MySQL, CRUD, Image Upload)
 Project Overview
-A Django-based blog website that allows users to create, edit, update, and delete blog posts with image upload. Users  log in, and post blogs, while others can comment on posts. An admin panel is included for managing users and content.
+A Django-based blog website that allows users to create, edit, update, and delete blog posts with image upload. Users can log in, and post blogs. An admin panel is included for managing users and content.
 
  Features
  * User Authentication – Register, login, logout
